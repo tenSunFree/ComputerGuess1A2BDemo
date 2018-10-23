@@ -15,9 +15,9 @@ https://play.google.com/store/apps/details?id=appinventor.ai_jeremy159258357.APP
 預覽
 --------
 <p align="left">
-  <img src="https://i.imgur.com/sJnggGM.jpg" width="200"/>
-  <img src="https://i.imgur.com/VsbMWMC.jpg" width="200"/>
-  <img src="https://i.imgur.com/BQwoVdx.jpg" width="200"/>
+  <img src="https://i.imgur.com/sJnggGM.jpg" width="230"/>
+  <img src="https://i.imgur.com/VsbMWMC.jpg" width="230"/>
+  <img src="https://i.imgur.com/BQwoVdx.jpg" width="230"/>
 </p> 
 
 備註
